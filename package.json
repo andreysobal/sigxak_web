@@ -1,0 +1,15 @@
+{
+  "name": "sigxak_theme",
+  "version": "1.0.0",
+  "description": "make up sigxak layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layout",
+    "sigxak"
+  ],
+  "author": "",
+  "license": "ISC"
+}
